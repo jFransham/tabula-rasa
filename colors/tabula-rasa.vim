@@ -29,6 +29,8 @@ hi String                       ctermfg=187
 hi Comment                      ctermfg=102
 hi SpecialComment               ctermfg=102
 
+hi MatchParen                                 ctermbg=237
+
 hi htmlLink       cterm=NONE    ctermfg=254
 hi htmlItalic     cterm=NONE    ctermfg=254
 hi htmlBold       cterm=NONE    ctermfg=254
