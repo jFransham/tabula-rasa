@@ -47,3 +47,6 @@ hi SpellRare      cterm=reverse ctermfg=none  ctermbg=none
 hi Error                        ctermfg=219   ctermbg=89
 hi ErrorMsg       cterm=bold    ctermfg=199   ctermbg=16
 hi Exception      cterm=bold    ctermfg=118
+
+hi Pmenu          cterm=italic  ctermfg=233   ctermbg=252
+hi PmenuSel       cterm=none    ctermfg=254   ctermbg=242
